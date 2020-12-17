@@ -1,0 +1,3 @@
+[submodule "src/glow/glow-pytorch"]
+	path = src/glow/glow-pytorch
+	url = git@github.com:pengyupatrik/glow-pytorch.git
